@@ -1,2 +1,2 @@
 # ML_start
-first attempt at ML
+various kaggle projects/competition attempts
